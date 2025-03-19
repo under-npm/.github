@@ -40,6 +40,22 @@ They facilitate a standardized approach to coding conventions, making it easier 
 These packages offer flexible configurations tailored to the specific environment, whether it's backend (Node.js) or frontend (web application), ensuring that coding standards are optimized for the unique requirements of each platform.
 
 <div align="center">
+  <a href="https://nextjs.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
+      <img alt="Next.js logo" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="128">
+    </picture>
+  </a>
+  <h1>Next.js</h1>
+
+<a href="https://vercel.com"><img alt="Vercel logo" src="https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000"></a>
+<a href="https://www.npmjs.com/package/next"><img alt="NPM version" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000"></a>
+<a href="https://github.com/vercel/next.js/blob/canary/license.md"><img alt="License" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000"></a>
+<a href="https://github.com/vercel/next.js/discussions"><img alt="Join the community on GitHub" src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20"></a>
+
+</div>
+
+<div align="center">
 <a href="https://eslint.org/"><img alt="Eslint" src="https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white"></a>
 <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB"></a>
 </div>
