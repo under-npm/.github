@@ -19,6 +19,16 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#philosphy">Philosphy</a></li>
+    <li><a href="#whats-included">What's Included</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+  </ol>
+</details>
+
 <!-- PHILOSPHY -->
 
 ## Philosphy
@@ -35,28 +45,34 @@ They facilitate a standardized approach to coding conventions, making it easier 
 
 <!-- WHAT'S INCLUDED -->
 
-### What's Included
+## What's Included
 
 These packages offer flexible configurations tailored to the specific environment, whether it's backend (Node.js) or frontend (web application), ensuring that coding standards are optimized for the unique requirements of each platform.
 
-<div align="center">
-    <img alt="Eslint" src="https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white">
+[![Eslint][Eslint.js]][Eslint-url]&nbsp;&nbsp;[![Prettier][Prettier.js]][Prettier-url]&nbsp;&nbsp;[![Tailwind][Tailwind]][Tailwind-url]
 
-  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB">
-<a href="https://eslint.org/">  <img alt="Eslint" src="https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white">
-</a>
-<a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB"></a>
-</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
 
+## Getting Started
+
+To begin using these configurations and scripts, refer to the respective repository's README for detailed setup instructions:
+
+- ESLint Configuration → [@under-io/eslint][Eslint-repo]
+- Prettier Configuration → [@under-io/prettier][Prettier-repo]
+- Tailwind Configuration → [@under-io/tailwind][Tailwind-repo]
+
+Each repository contains installation steps, usage examples, and customization options tailored for different environments, ensuring seamless integration into your projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [Eslint.js]: https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white
 [Eslint-url]: https://eslint.org/
+[Eslint-repo]: https://github.com/under-npm/eslint
 [Prettier.js]: https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB
 [Prettier-url]: https://prettier.io/
-[Typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[Typescript-url]: https://www.typescriptlang.org/
-
-
+[Prettier-repo]: https://github.com/under-npm/prettier
+[Tailwind]: https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwind-url]: https://tailwindcss.com
+[Tailwind-repo]: https://github.com/under-npm/tailwind
