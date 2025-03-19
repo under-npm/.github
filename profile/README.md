@@ -56,7 +56,7 @@ These packages offer flexible configurations tailored to the specific environmen
 [Typescript-url]: https://www.typescriptlang.org/
 
 <style>
-  .img {
+  a, .img {
     display: inline-block;
   }
 </style>
