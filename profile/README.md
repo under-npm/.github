@@ -40,8 +40,8 @@ They facilitate a standardized approach to coding conventions, making it easier 
 These packages offer flexible configurations tailored to the specific environment, whether it's backend (Node.js) or frontend (web application), ensuring that coding standards are optimized for the unique requirements of each platform.
 
 <div align="center">
-  <a href="https://eslint.org/"><img alt="Eslint" src="https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white"></a>
-  <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB"></a>
+<a href="https://eslint.org/"><img alt="Eslint" src="https://img.shields.io/badge/eslint-FFEA00?style=for-the-badge&logo=eslint&logoColor=white"></a>
+<a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-563D7C?style=for-the-badge&logo=prettier&logoColor=61DAFB"></a>
 </div>
 
 
