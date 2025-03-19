@@ -1,13 +1,4 @@
 <a name="readme-top"></a>
-<style>
-h1 {
-    background-image: url(./image.gif);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-</style>
 
 <!-- PROJECT LOGO -->
 <br />
