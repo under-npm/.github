@@ -39,7 +39,7 @@ They facilitate a standardized approach to coding conventions, making it easier 
 
 These packages offer flexible configurations tailored to the specific environment, whether it's backend (Node.js) or frontend (web application), ensuring that coding standards are optimized for the unique requirements of each platform.
 
-[![Eslint][Eslint.js]][Eslint-url] [![Prettier][Prettier.js]][Prettier-url]
+[![Eslint][Eslint.js]][Eslint-url]&nbsp;[![Prettier][Prettier.js]][Prettier-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
