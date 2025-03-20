@@ -37,7 +37,7 @@ This project aims to address the growing need for code consistency in our ever-e
 
 While small-scale projects often prioritize code that's easy to write and maintain for those intimately familiar with the codebase, as our organization scales up, we encounter challenges. Projects change hands between teams, new team members join, and we frequently work with code created by developers we've never met.
 
-In this context, inconsistent styles and complex code can be a significant hindrance, especially for newcomers and junior contributors. These packages, comprising of detailed ESLint, Prettier, and TypeScript configurations to date, are designed to bridge this gap.
+In this context, inconsistent styles and complex code can be a significant hindrance, especially for newcomers and junior contributors. These packages, comprising of detailed ESLint, Prettier, and Tailwind configurations to date, are designed to bridge this gap.
 
 They facilitate a standardized approach to coding conventions, making it easier for developers to read and understand code across the organization. This consistency reduces the risk of fragmentation, duplication of efforts, and costly rewrites, ultimately enhancing collaboration and productivity within the engineering team at Under.
 
